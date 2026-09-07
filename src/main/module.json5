@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "page_header",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
