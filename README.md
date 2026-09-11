@@ -14,16 +14,6 @@
 ohpm install page-header
 ```
 
-本地源码依赖：
-
-```json5
-{
-  "dependencies": {
-    "page-header": "file:../page-header",
-    "theme": "file:../theme"
-  }
-}
-```
 
 ## 正常使用样式
 
