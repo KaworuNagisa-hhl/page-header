@@ -18,8 +18,8 @@ import {
   SwiftUIHeaderStyle,
   SwiftUIMetricItem,
   SwiftUITone
-} from 'theme'
-import { SwiftUIMetricRail } from 'metric-rail'
+} from '@kaworunagisa_hhl/theme'
+import { SwiftUIMetricRail } from '@kaworunagisa_hhl/metric-rail'
 
 @Component
 export struct SwiftUIPageHeader {

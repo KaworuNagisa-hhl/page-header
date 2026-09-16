@@ -1,6 +1,6 @@
 {
   "modelVersion": "6.0.2",
-  "name": "page-header",
+  "name": "@kaworunagisa_hhl/page-header",
   "version": "1.0.3",
   "description": "OpenHarmony/HarmonyOS ArkUI like-ios 毛玻璃页面头图组件，适合仪表盘、个人页与场景化页面顶部展示。提供 homepage、example 示例目录与清晰的 README 使用说明。",
   "main": "Index.ets",
@@ -13,11 +13,15 @@
     "HarmonyOS",
     "ArkUI",
     "like-ios",
-    "frosted-glass",
-    "component"
+    "ios-like",
+    "kaworunagisa_hhl",
+    "header",
+    "navigation",
+    "page",
+    "glass"
   ],
   "dependencies": {
-    "theme": "file:../theme",
-    "metric-rail": "file:../metric-rail"
+    "@kaworunagisa_hhl/theme": "file:../theme",
+    "@kaworunagisa_hhl/metric-rail": "file:../metric-rail"
   }
 }

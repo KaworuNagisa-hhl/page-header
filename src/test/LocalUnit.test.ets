@@ -6,7 +6,7 @@ import {
   headerUsesLightText,
   SwiftUIHeaderStyle,
   SwiftUITone
-} from 'theme'
+} from '@kaworunagisa_hhl/theme'
 
 export default function localUnitTest() {
   describe('SwiftUIPageHeader', () => {
