@@ -1,5 +1,5 @@
-import { SwiftUIPageHeader } from '@kaworunagisa_hhl/page-header'
-import { SwiftUIHeaderStyle } from '@kaworunagisa_hhl/theme'
+import { SwiftUIPageHeader } from 'page-header'
+import { SwiftUIHeaderStyle } from 'theme'
 
 @Component
 export struct SwiftUIPageHeaderUsage {
